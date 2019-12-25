@@ -12,4 +12,4 @@
 <p><a href="https://github.com/odoor2/oo/blob/master/README.md">网门（网页版）</a></p>	
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?fldfh2">神州正道（安卓版）</a></p>	
 <p><a href="https://raw.githubusercontent.com/hxrfvz257/www/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>	
-<p>如有疑问可联系邮箱fanqiang@gmx.us@gmx.com </a></p>	
+<p>如有疑问可联系邮箱fanqiang@gmx.us </a></p>	
