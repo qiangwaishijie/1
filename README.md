@@ -10,7 +10,6 @@
 <h1><p><strong>看海外新闻专用：</strong></p></h1>
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea.apk">环门（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip">环门（电脑版）</a></p>
-<p><a href="https://raw.githack.com/otiny/up/master/show003.htm">网门（网页版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/czicxj2368/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/szzdogate.rar">神州正道（网页版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/oHopea.apk">希望之声（安卓版）</a></p>
