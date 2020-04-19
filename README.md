@@ -18,7 +18,7 @@
 <p><a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip">epoch（Mac版）</a></p>
 <p><a href="https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-linux64.tar.xz">epoch（Linux版）</a></p>
 <h1><p><strong>疫情相关：</strong></p></h1>
-<p><a href="https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/疫情周刊8.pdf">疫情周刊</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/疫情周报3.pdf">疫情周报</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/要有人站出来说真话.pdf">要有人站出来说真话</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/欺骗与救度.pdf">欺骗与救度</a></p>
 <p>如有疑问可联系邮箱fanqiang@gmx.us </a></p>	
