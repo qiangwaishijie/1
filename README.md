@@ -23,8 +23,7 @@
                 
 <p>Fair VPN (苹果版)：</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/Ao0G8UZD">点击此处</a>安装。</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法2：用中国以外地区苹果帐号登录应用商店，然后<a href="https://apps.apple.com/us/app/id1533873488">点击此处</a>安装。</p>
-![图片](https://user-images.githubusercontent.com/44088139/115386424-5c97e180-a1a7-11eb-91b1-4a9d1b167488.png)
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法2：用中国以外地区苹果帐号登录应用商店，然后<a href="https://apps.apple.com/us/app/id1533873488">点击此处</a>安装。
 
 <p>如有疑问可联系邮箱fanqiang@gmx.us </a></p>	
 
