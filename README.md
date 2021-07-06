@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/qiangwaishijie/xz/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/odoor3/oo/blob/master/README.md">网门（网页精简版）</a>、<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://github.com/hao2345679/jyg12/wiki/jyg">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>
+网页看新闻：<a href="https://github.com/odoor3/oo/blob/master/README.md">网门（网页精简版）</a>、<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://github.com/hao2345679/jyg12/wiki/jyg">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 
 <p>如有疑问可联系邮箱fanqiang@gmx.us </a></p>	
