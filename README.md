@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/qiangwaishijie/xz/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>
+网页看新闻：<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>、<a href="https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/神州网页版.zip">神州网页版</a>
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 
 <p>如有疑问可联系邮箱fanqiang@gmx.us </a></p>	
