@@ -4,7 +4,7 @@
 |  ----  | ----   | ----  |----  |  
 | 无界  | [无界一点通](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/um5.4.apk) 、[无界VPN版](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/u2.2.6.apk) | [无界浏览](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/u2132.zip)  |   [无界](https://github.com/wujieliulan/forum)  |  
 | 自由门  | [自由门安卓版](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/fgma.apk)、[自由门VPN版](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/fgvpn1.3.apk) | [自由门](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/fg797p.zip)  |  - |  
-| 赛风  | [Psiphon]() | [Psiphon]()  |  [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [Psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
+| 赛风  | [Psiphon](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/PsiphonAndroid.apk) | [Psiphon](https://cdn.jsdelivr.net/gh/qiangwaishijie/xz/psiphon3.zip)  |  [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [Psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
 
 
 <img src="https://raw.githubusercontent.com/qiangwaishijie/xz/master/2.jpg">
