@@ -1,4 +1,4 @@
-![图片](https://github.com/qiangwaishijie/1/assets/44088139/2ff956f5-19f8-4ec3-b27f-bacc41429d28)<img src="https://gitlab.com/qiangwaishijie/xz/-/raw/master/1.jpg">
+<img src="https://gitlab.com/qiangwaishijie/xz/-/raw/master/1.jpg">
 
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
