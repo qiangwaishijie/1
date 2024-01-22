@@ -49,8 +49,6 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8">赛风浏览器</a></p>
 </details>
 <h2>
-
-<h2>
 </a><strong>其它：</strong>
 </h2>
 <p><a href="https://ggithub.xyz/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
